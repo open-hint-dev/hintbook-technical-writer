@@ -1,0 +1,22 @@
+{
+  "id": "hintbook-technical-writer",
+  "name": "HINT Technical Writers",
+  "description": "A vocabulary and operating frame for technical writers",
+  "synonyms": [
+    [
+      "docs",
+      "documentation",
+      "doc set"
+    ],
+    [
+      "how-to",
+      "guide",
+      "tutorial"
+    ],
+    [
+      "glossary",
+      "terminology",
+      "terms"
+    ]
+  ]
+}

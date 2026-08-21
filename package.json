@@ -1,0 +1,48 @@
+{
+  "name": "@openhint/hintbook-technical-writer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "The official HINT vocabulary for technical writers.",
+  "keywords": [
+    "openhint",
+    "hintbook",
+    "technical-writer"
+  ],
+  "author": "Andrei Neprel <andrei@neprel.ai> (https://neprel.ai/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-hint-dev/hintbook-technical-writer.git"
+  },
+  "homepage": "https://github.com/open-hint-dev/hintbook-technical-writer#readme",
+  "bugs": {
+    "url": "https://github.com/open-hint-dev/hintbook-technical-writer/issues"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./index.js",
+  "exports": {
+    "./package.json": "./package.json",
+    ".": {
+      "import": "./index.js"
+    }
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "CHANGELOG.md",
+    "docs",
+    "emit",
+    "index.js",
+    "keywords",
+    "testdata"
+  ],
+  "scripts": {
+    "test": "node scripts/check-book.mjs"
+  },
+  "dependencies": {}
+}

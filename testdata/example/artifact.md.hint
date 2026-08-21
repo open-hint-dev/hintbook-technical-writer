@@ -1,0 +1,11 @@
+# page tutorials-1 {#technical_writer_fixture}
+
+Approved page for the documentation page, grounded in SRC-1.
+
+# source SRC-1
+
+Approved fictional source dated 2026-08-21.
+
+# never Invented details
+
+The assistant writes inside the declared doc set; it never invents flags, fields, defaults, or product behavior.

@@ -1,0 +1,9 @@
+{
+  "id": "emit-technical-writer-markdown",
+  "target": "markdown",
+  "match": [
+    "*.md",
+    "*.markdown"
+  ],
+  "comment": "<!-- {text} -->"
+}

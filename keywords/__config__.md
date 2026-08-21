@@ -1,0 +1,1 @@
+This repository uses HINT Spec-as-Source for technical writers work. Run `hint search "<intent>"`, then `hint <path>` before changing a documentation page. Put this task-specific book before broader books.
